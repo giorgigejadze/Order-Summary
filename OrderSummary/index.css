@@ -1,0 +1,98 @@
+body{
+    background-color: hsla(0, 6%, 90%, 0.76);
+}
+svg{
+    position: relative;
+    top: 175px; left: 300px;
+    width: 1240px;
+}
+.im{
+    transform: rotate(3.142rad);
+    position: relative;
+    top: -80px; left: 300px;
+}
+div{
+    background: hsl(0, 0%, 100%);
+      color: #000000;
+      font: 16px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+      display: inline-block;
+      height: 517px;
+      line-height: 30px;
+      margin: 0 660px;
+      text-align: center;
+      width: 330px;
+      position: relative;
+      top: -658px; left: 100px;
+  }
+  .di{
+    border-radius: 15px;
+    appearance: none;
+  }
+  order{
+    position: relative;
+    top: 180px; left: 0px;
+  }
+  .man{
+    position: relative;
+    top: -68px; left: 0px;
+    height: 165px;
+    width: 330px;
+    border-end-start-radius: 15px;
+    writing-mode: vertical-lr;
+    border-top-right-radius: 15px;
+    writing-mode: vertical-rl;
+  }
+  .txt{
+    position: relative;
+    top: -12px; left: 0px;
+    letter-spacing: 0px;
+    font: 12px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    color: hsl(224, 23%, 55%);
+  }
+  music{
+    background: hsla(224, 23%, 55%, 0.082);
+    color: #000000;
+    font: 13px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    display: inline-block;
+    height: 70px;
+    line-height: 30px;
+    margin: 0 660px;
+    text-align: center;
+    width: 290px;
+    position: relative;
+    top: -20px; left: -635px;
+    border-radius: 10px;
+  }
+  mus{
+    position: relative;
+    top: 10px; left: -40px;
+    letter-spacing: -0,50px;
+  }
+  .musi{
+    position: relative;
+    top: -75px; left: -30px;
+    width: 35px;
+  }
+  money{
+    color: hsl(224, 23%, 55%);
+    position: relative;
+    top: -80px; left: -28px;
+    font-size: 12px;
+  }
+  .li{
+    position: relative;
+    top: -85px; left: 30px;
+  }
+  button{
+    position: relative;
+    top: -45px; left: 5px;
+    border-radius: 10px;
+    width: 290px; height: 35px;
+    background-color: hsla(245, 64%, 63%, 0.692);
+    color: aliceblue;
+  }
+  .nk{
+    position: relative;
+    top: -28px; left: 0px;
+    color: #000000;
+  }
